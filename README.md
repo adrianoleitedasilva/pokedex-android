@@ -4,10 +4,6 @@
 
 Aplicativo Android de Pokedex desenvolvido com Jetpack Compose, consumindo a [PokeAPI](https://pokeapi.co/) para exibir informações detalhadas sobre os Pokémon.
 
-## Screenshots
-
-> _Em breve_
-
 ## Funcionalidades
 
 - **Listagem de Pokémon** — grid de 2 colunas com 24 Pokémon por página
